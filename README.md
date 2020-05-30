@@ -2,7 +2,7 @@
 A basic vimrc for competitive programming
 
 This is my attempt to congfigure vim for competitive programming. It has been equipped with all the necessary tools for cp such 
-as auto indentation, syntex highlighting, automatic bracket closing etc. 
+as auto indentation, syntax highlighting, automatic bracket closing etc. 
 
 The theme i am using is tender. This is a classic dark theme for vim which i installed using this repo: 
 
